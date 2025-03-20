@@ -101,8 +101,7 @@ There was an unexpected error
 
 #EXTINF:-1 tvg-logo="https://e.top4top.io/p_3301itgmp1.jpg" group-title="YOYO TV",YOYO TV
 https://l.top4top.io/m_3278pt8dd1.mp4
-#EXTINF:-1 tvg-logo="https://l.top4top.io/p_31985tia01.png" group-title="YOYO TV",YOYO TV 
-https://l.top4top.io/m_3278pt8dd1.mp4
+
 
 
 
