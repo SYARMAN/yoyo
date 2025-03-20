@@ -107,24 +107,7 @@ https://l.top4top.io/m_3278pt8dd1.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3285rby7w1.png" group-title="YOUTUBE",YOYO TV
-https://d.top4top.io/m_3301xo83s1.mp4
-#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3285rby7w1.png" group-title="YOUTUBE",YOYO TV
-https://h.top4top.io/m_33014encr1.mp4
-#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3285rby7w1.png" group-title="YOUTUBE",YOYO TV
-https://g.top4top.io/m_3301j73vy1.mp4
-#EXTINF:-1 tvg-logo="https://c.top4top.io/p_328535w371.jpg" group-title="YOUTUBE",YOYO TV 
-https://e.top4top.io/m_3285oh6qr1.mp4
 
-
-                    ========LIGA 1=====
-
-#EXTINF:-1 group-title="🔴BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR 
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9caf76de62c36d6c8889b24635893951:981eaa8b8d1b4e03ca3b531533907e15
-https://gasruktv.my.id/asx/live.mpd?id=17623
 
 
 
@@ -136,10 +119,6 @@ https://gasruktv.my.id/asx/live.mpd?id=17623
 
 
 
-#EXTINF:-1 group-title="#0. LIVE EVENT" tvg-logo="https://i.pinimg.com/originals/a5/c6/4b/a5c64be4ef196c530849132e9e56f449.gif",EVENT 1 (SD) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium94/index.m3u8
 
 #EXTINF:-1 group-title="#0. LIVE EVENT" tvg-logo="https://i.pinimg.com/originals/a5/c6/4b/a5c64be4ef196c530849132e9e56f449.gif",EVENT 2 (SD) 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -162,14 +141,12 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
-#EXTINF:-1 group-title="#0. LIVE EVENT" tvg-logo="https://i.pinimg.com/originals/a5/c6/4b/a5c64be4ef196c530849132e9e56f449.gif",EVENT 5 (SD) 
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 
 
 ############################### AFF Asean CUP ##################################
 
 
-#EXTINF:-1 group-title="#0. AFF Asean CUP" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",0. AFF Asean CUP 2024 (INDO)
+#EXTINF:-1 group-title="#0. AFF Asean CUP" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",0. AFF Asean CUP 2024 (SOCCER)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
@@ -177,16 +154,15 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="#0. AFF Asean CUP" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",0. AFF Asean CUP 2024 (INDO)
+#EXTINF:-1 group-title="#0. AFF Asean CUP" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",0. AFF Asean CUP 2024 (SOCCER)
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 group-title="#0. AFF Asean CUP" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",1. AFF Asean CUP 2024 (INDO)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="#0. AFF Asean CUP" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",1. AFF Asean CUP 2024 (SPORTSTAR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:-1 group-title="#0. AFF Asean CUP" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",1. AFF Asean CUP 2024 (INDO)
+#EXTINF:-1 group-title="#0. AFF Asean CUP" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",1. AFF Asean CUP 2024 (SPORTSTAR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
