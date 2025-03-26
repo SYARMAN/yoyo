@@ -120,7 +120,7 @@ There was an unexpected error
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5Yvvcd6/dup-0x7f0f0006-2.png" group-title="LOCAL",YOYO TV
-https://bit.ly/4fVtOcd
+[https://bit.ly/4fVtOcd](https://l.top4top.io/m_3372yzsto1.mp4)
 
 
 
